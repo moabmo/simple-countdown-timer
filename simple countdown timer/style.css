@@ -1,0 +1,26 @@
+
+body{
+    background-color: blue;
+    margin:auto;
+    text-align: center;
+}
+h1{
+    font-size: 500%;
+    background-color: white;
+    border-radius: 15px;
+    color: blue;
+
+}
+
+p{
+    background-color: #fff;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 2000%;
+    margin: 0;
+    height: auto;
+    width: 100%;
+    border-radius: 15px;
+    color: blue;
+}
